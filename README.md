@@ -7,3 +7,5 @@
 鄙人微信：pefishpefish
 
 鄙人博客：https://www.pefish.club
+
+**IT领域新东西的出现除了创造就是抽象与封装**
