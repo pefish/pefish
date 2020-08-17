@@ -4,9 +4,9 @@
 
 如果你也是，请加我微信
 
-鄙人微信：pefishpefish
+微信：pefishpefish
 
-鄙人博客：https://www.pefish.club
+博客：https://www.pefish.club
 
 * IT领域新东西的出现除了创造就是抽象与封装
 * 解决IT领域问题都可以使用分层也应该使用分层
