@@ -6,7 +6,9 @@
 
 微信：pefishpefish
 
-博客：https://www.pefish.club
+- [x] 博客：https://www.pefish.club
+- [x] 币工具：https://cointool.pefish.club
+
 
 * IT领域新东西的出现除了创造就是抽象与封装
 * 解决IT领域问题都可以使用分层也应该使用分层
