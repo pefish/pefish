@@ -6,8 +6,8 @@
 
 微信：pefishpefish
 
-- [x] 博客：https://www.pefish.club
-- [x] 币工具：https://cointool.pefish.club
+- [x] 博客：https://www.pefish.me
+- [x] 币工具：https://cointool.pefish.me
 
 
 * IT领域新东西的出现除了创造就是抽象与封装
