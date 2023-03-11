@@ -1,14 +1,23 @@
-## 朋友，你好！！
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pefish" />
 
-我是 **pefish**，是一名崇尚`开源`的实践主义者。我相信，光学习理论不够，还要有实践，而开源可以激发更多的实践。
+### Hello, I'm PEFISH 👋
 
-如果你跟我一样，请加我微信，一起成长一起提高
+- I’m currently focusing on Web3.0.
 
-微信：pefishpefish
+<!--
+**pefish/pefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- [x] 博客：https://www.pefish.me
-- [x] 币工具：https://cointool.pefish.me
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
-* IT领域新东西的出现除了创造就是抽象与封装
-* 解决IT领域问题都可以使用分层也应该使用分层
+
